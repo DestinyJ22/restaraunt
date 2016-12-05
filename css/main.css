@@ -1,0 +1,147 @@
+/*** sectioning elements ***/
+
+body {
+  background-color: #d8ad6a;
+
+}
+
+header {
+color: #01233f;
+}
+
+main {
+
+}
+
+footer {
+  background-color: #d8ad6a;
+}
+
+nav {
+
+}
+
+section {
+
+}
+
+aside {
+
+}
+
+.dark {
+    background-color: #000;
+    color: #fff;
+}
+
+
+/**** content styles ***/
+
+h1 {
+  font-size:50px;
+  margin: 0;
+text-align: center;
+}
+
+h2 {
+  font-size: 42px;
+  margin: auto;
+text-align:center;
+}
+
+footer h2 {
+  color: #777;
+  font-size: 12px;
+  margin:auto;
+  text-align: center;
+}
+
+h3 {
+  font-size: 42px;
+text-align: center;
+}
+
+h4 {
+text-align: center;
+}
+
+h5 {
+
+}
+
+h6 {
+
+}
+
+p {
+text-align: center;
+}
+
+blockquote {
+
+}
+
+ol {
+
+}
+
+ul {
+
+}
+
+footer ul {
+    margin: auto;;
+    padding: 16px;
+    list-style: none;
+}
+
+li {
+color: #01233f;
+text-align: center;
+}
+
+table {
+
+}
+
+tr {
+
+}
+
+th {
+
+}
+
+td {
+
+}
+
+
+/*** image styles ***/
+
+img  {
+
+}
+
+img.social {
+  margin: 6px;
+}
+
+
+/*** link styles ***/
+
+a:link {
+color: #01233f;
+}
+
+a:visited {
+
+}
+
+a:hover {
+
+}
+
+a:active {
+
+}
